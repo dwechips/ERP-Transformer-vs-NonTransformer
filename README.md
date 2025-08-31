@@ -10,7 +10,7 @@ Requirements:
 - NumPy / SciPy / Pandas  / flash_attn
 
 Data Availability：
-fMRI data: from Pereira et al. (2018), available at https://doi.org/10.1038/s41467-018-03068-4
+All data from Pereira et al. (2018) public dataset
 Scripts will output .mat files containing embeddings and results.
 These are not included in the repo due to size.
 
